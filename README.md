@@ -1,0 +1,2 @@
+# Smart-Irrigation-And-Weather-Monitoring-System
+This is a project completed with the help of the kit and video lectures provided by Skyfi Labs, Bangalore, India. This project comprises of a smart irrigation system which is composed of a soil moisture sensor which reads the moisture value based on the resistance between two terminals. When the moisture level is less than 50, it relays a command to start the pump. When the moisture level exceeds 50, it relays a command to stop the pump. The programming language used is Arduino and the Arduino UNO board is used. 
